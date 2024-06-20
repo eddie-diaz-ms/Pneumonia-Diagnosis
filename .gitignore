@@ -1,0 +1,7 @@
+.venv
+.DS_Store
+image_data.npy
+target.npy
+lab6.html
+lab6.ipynb
+lab6_GC.ipynb
